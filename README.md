@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new technology
 - 🌱 I’m currently learning about developing mobile and website
 - 💞️ I’m looking to collaborate on any project
-- 📫 You can email me : julianch36@gmail.com
+- 📫 You can email me : julianchandra002@gmail.com
 
 <!---
 julian-ch-02/julian-ch-02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
